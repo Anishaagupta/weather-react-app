@@ -18,6 +18,7 @@ const weather = (props)=>{
             {props.speed ? (<h3><span className="py-3">Speed Of Wind &nbsp; {props.speed}m/s</span></h3>):null}
             </div>
         </div>
+        
         </>
     )
 }

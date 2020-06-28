@@ -21,8 +21,8 @@ const Form = props=>{
                 </div>
                 </div>
             </form>
-        </div>
 
+        </div>
 
     )
 }

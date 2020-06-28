@@ -129,8 +129,7 @@ class App extends React.Component{
      humidity = {this.state.humidity}
      speed = {this.state.speed}
      wIcon = {this.state.icon}
-     />
-      
+     />      
     </div>
     )
        
