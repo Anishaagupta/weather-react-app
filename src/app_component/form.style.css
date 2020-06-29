@@ -20,10 +20,6 @@ form input:focus{
     color: white;
 
 }
-b{
-    outline: none;
-    border-style: none;
-}
 
 form input::container-webkit-input-placeholder{
     color: white !important;

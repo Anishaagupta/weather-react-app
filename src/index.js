@@ -1,14 +1,12 @@
-// eslint-disable
+/* eslint-disable*/
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />   
-    <p className="anisha">All Rights reserved. Copyright &copy; 2020.Created By <a href="https://anisha-profile1.netlify.app/" target="blank">Anisha Gupta</a></p>      
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
@@ -16,4 +14,3 @@ ReactDOM.render(
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
